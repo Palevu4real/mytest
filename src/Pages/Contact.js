@@ -8,12 +8,12 @@ export default function Contact() {
             
            <div className="Emeka" >
            <h1> <p>Ejiro A </p>
-            <p>Facilitato </p>
+            <p>Facilitator </p>
             <p> 0813-456-5674 </p>
             </h1>
 
             <h1> <p>Emeka A </p>
-            <p>Facilitato </p>
+            <p>Facilitator </p>
             <p> 0813-456-5674 </p>
             </h1>
             </div>
