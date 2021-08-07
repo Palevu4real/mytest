@@ -63,11 +63,12 @@ nav :hover{
 /* my h1 colors */
 
 h1,h2,h3{
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(3, 37, 36);
 }
 
 body{
-  background-color: rgb(164, 180, 180);
+  background-color: #c2e3e7;
 }
 
 /* my css for contact page */
